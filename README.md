@@ -6,3 +6,5 @@ Analyze the email and generate a professional, polite reply that addresses all r
 #Second Project
 
 Generate a QR code encoding the following data. Return the result as a PNG and include the raw encoded string and error-correction level.
+
+ Third Project
