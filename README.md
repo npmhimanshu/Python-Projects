@@ -25,5 +25,9 @@ An automated bot that sends messages or replies on WhatsApp using Python
 
 Seven Project
 ---
+A two-player Tic Tac Toe game implemented with game logic in Python
+
+Eight Project
+---
 
 
