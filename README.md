@@ -16,3 +16,9 @@ Four Project
 A secure password generator that creates strong, random passwords.
 
 Five Project
+---
+A simple arcade-style game where a caterpillar grows as it collects items
+
+Six Project
+---
+
