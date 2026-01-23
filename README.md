@@ -21,4 +21,9 @@ A simple arcade-style game where a caterpillar grows as it collects items
 
 Six Project
 ---
+An automated bot that sends messages or replies on WhatsApp using Python
+
+Seven Project
+---
+
 
