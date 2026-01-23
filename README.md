@@ -10,3 +10,9 @@ A Python application that generates QR codes for text or URLs.
 Third Project
 ---
 Simulate 100 rolls of 2d6 and show the frequency distribution.
+
+Four Project
+---
+A secure password generator that creates strong, random passwords.
+
+Five Project
