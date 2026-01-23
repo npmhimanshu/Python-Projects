@@ -29,5 +29,5 @@ A two-player Tic Tac Toe game implemented with game logic in Python
 
 Eight Project
 ---
-
+An interactive game where the user guesses a randomly generated number.
 
