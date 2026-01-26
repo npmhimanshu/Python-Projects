@@ -35,5 +35,10 @@ Nine Project
 ---
 A database application performing Create, Read, Update, and Delete operations using SQLite.
 
+Ten Project
+---
+A fun Python program that matches users based on predefined compatibility logic.
+
+
 
 
