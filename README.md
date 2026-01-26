@@ -43,6 +43,11 @@ Eleven Project
 ---
 A game where the player catches falling eggs to score points and avoid misses.
 
+Twelve Project
+---
+A computer vision project that controls actions using real-time hand gestures.
+
+
 
 
 
